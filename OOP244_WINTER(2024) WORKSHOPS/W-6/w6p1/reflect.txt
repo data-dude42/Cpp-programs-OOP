@@ -1,0 +1,12 @@
+NAME -> paras singh
+STUDENT ID -> 165-114-232
+SECTION -> zee
+EMAIL -> psingh721@myseneca.ca
+
+In this workshop, we learned about creating classes and handling files in our programs. We talked about how to organize our code using classes, which are like blueprints for objects. We also learned about different types of files, and how to read from and write to them using `ifstream` and `ofstream` functions.
+
+Understanding classes helped us build better programs by organizing our code neatly. Learning about files and how to work with them was interesting because it allowed us to save and retrieve data from outside our programs.
+
+However, some parts were tricky, like managing memory and understanding all the details about file handling. 
+
+Overall, the workshop was a good learning experience. We got to understand how to organize our code better and work with files, which are important skills for building software.

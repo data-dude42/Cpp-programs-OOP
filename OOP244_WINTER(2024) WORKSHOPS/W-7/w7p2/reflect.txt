@@ -1,0 +1,25 @@
+/*****************************************************************
+                        Declaration
+Name       : PARAS SINGH
+Email      : psingh721@myseneca.ca
+Student_ID : 165-114-232
+Date       : 21 march 2024
+
+I have done all the coding by myself and only copied the code that
+my professor provided to complete my workshops and assignments.
+*****************************************************************/
+
+
+This workshop was long, but surprisingly not too difficult. It built upon the knowledge from our previous workshops. In this workshop, I learned how to create a base class and a derived class.
+
+Initially, I had some difficulty implementing the read and write functions. I got confused while cascading the functions, but then I realized that the functions themselves already handle input/output through the provided streams.
+
+Another issue I encountered was missing const keywords. This caused errors, but they were easily fixed by adding const to the end of the write functions (ostream functions).
+
+Finally, I had trouble with user input for the name and opening balance. Using `in >> name` caused unexpected behavior because spaces in the name could disrupt the program. To address this, I used `getline`. Additionally, after entering the opening balance and pressing enter, the program wouldn't continue. This was resolved by using `in.ignore` to clear the input buffer.
+
+
+
+
+
+

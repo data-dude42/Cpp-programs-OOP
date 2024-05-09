@@ -1,0 +1,28 @@
+/*
+NAME -> PARAS SINGH
+STUDENT_ID -> 165-114-232
+EMAIL -> psingh721@myseneca.ca
+DATE -> 29 MARCH, 2024
+*/
+
+                   Reflection:
+
+
+As a C++ programmer delving into inheritance, the concept of derived classes with resources has been an eye-opener. 
+It's fantastic how a derived class can inherit functionality from a base class, but it adds a layer of complexity when it comes to managing resources.
+
+On the one hand, it's incredibly convenient. Imagine a base class handling basic file operations. 
+Now, a derived class for images can inherit that functionality and add its own methods for image manipulation. 
+It's code reuse at its finest!
+
+But here's where things get tricky. Both the base and derived class might have their own resources to manage, like file handles or memory buffers. 
+If I'm not careful, forgetting to properly deallocate them in the derived class destructor can lead to memory leaks or resource conflicts.
+which i really face in this workshop to manage the memory leaks.
+
+The key, I've learned, is to understand the ownership of these resources. 
+The base class constructor might allocate memory, and the derived class destructor becomes responsible for cleaning it up since it inherits the ownership. 
+This requires careful planning and the potential for overriding certain member functions like the copy constructor to ensure proper resource handling.
+
+It's a mental hurdle, but one that makes the power of inheritance truly shine. 
+By understanding these complexities, I can build robust and efficient derived classes that leverage the strengths of their base classes while managing resources responsibly. 
+It's a balancing act, but a rewarding one that pushes me to become a better C++ programmer. 

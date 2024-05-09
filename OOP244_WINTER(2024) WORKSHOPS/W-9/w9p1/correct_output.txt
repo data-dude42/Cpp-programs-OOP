@@ -1,0 +1,80 @@
+Script started on Thu 21 Mar 2024 08:53:06 PM EDT
+==218115== Memcheck, a memory error detector
+==218115== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==218115== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==218115== Command: ws.exe
+==218115== 
+Library Items:
+***********************************************
+1>
+Title: The Great Gatsby (1925)
+===============================================
+2>
+Title: To Kill a Mockingbird (1960)
+===============================================
+3>
+Title: 1984 (1949)
+===============================================
+4>
+Title: Brave New World (1932)
+===============================================
+5>
+Title: The Catcher in the Rye (1951)
+===============================================
+
+Books:
+***********************************************
+1>
+Title: The Catcher in the Rye (1951)
+Author: J.D. Salinger
+===============================================
+2>
+Title: The Hobbit (1937)
+Author: J.R.R. Tolkien
+===============================================
+3>
+Title: Pride and Prejudice (1813)
+Author: Jane Austen
+===============================================
+4>
+Title: 1984 (1949)
+Author: George Orwell
+===============================================
+5>
+Title: The Great Gatsby (1925)
+Author: F. Scott Fitzgerald
+===============================================
+
+Testing Copy Assignment and copy constructor
+***********************************************
+Books sorted by publication year:
+1>
+Title: The Great Gatsby (1925)
+Author: F. Scott Fitzgerald
+===============================================
+2>
+Title: 1984 (1949)
+Author: George Orwell
+===============================================
+3>
+Title: The Catcher in the Rye (1951)
+Author: J.D. Salinger
+===============================================
+4>
+Title: The Hobbit (1937)
+Author: J.R.R. Tolkien
+===============================================
+5>
+Title: Pride and Prejudice (1813)
+Author: Jane Austen
+===============================================
+==218115== 
+==218115== HEAP SUMMARY:
+==218115==     in use at exit: 0 bytes in 0 blocks
+==218115==   total heap usage: 68 allocs, 68 frees, 73,841 bytes allocated
+==218115== 
+==218115== All heap blocks were freed -- no leaks are possible
+==218115== 
+==218115== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Thu 21 Mar 2024 08:53:07 PM EDT

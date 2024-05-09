@@ -1,0 +1,14 @@
+WORKSHOP -4 reflection
+
+NAME - paras singh
+STUDENT ID# 165-114-232
+EMAIL - psingh721@myseneca.ca
+DATE - 15-FEB-2024
+
+
+
+Constructors and destructors are fundamental concepts in C++ programming, shaping my understanding of object-oriented design. Constructors enable me to initialize objects with specific states and parameters, teaching me about object instantiation and overloading. On the other hand, destructors handle resource cleanup and memory deallocation, emphasizing the importance of proper resource management throughout the object's lifecycle.
+
+In practice, I often encounter challenges related to resource leaks and initialization sequences. Failure to manage resources correctly can lead to memory leaks and undefined behavior, underscoring the critical role of constructors and destructors in maintaining code integrity.
+
+One specific concern involves the strncpy function, which I've learned can prevent buffer overflows but may not always null-terminate destination strings. This ambiguity can lead to unexpected behavior and vulnerabilities in my code. Thus, I've gained insight into the importance of careful usage and proper handling of strncpy to avoid potential bugs.
