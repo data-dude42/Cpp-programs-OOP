@@ -1,21 +1,5 @@
 
-/***********************************************************************
-// OOP244 Workshop 10 p1: Book module implementation file
-//
-// File: Book.cpp
-// Version 1.0
-// Date: Oct 4, 2023
-// Author: Jeevan Pant
-// Description:
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-//
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 
-// Module supplied
 #define _CRT_SECURE_NO_WARNINGS
 #include "Book.h"
 using namespace std;
