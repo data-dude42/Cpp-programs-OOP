@@ -1,9 +1,4 @@
-/*
-* name - paras singh
-* student_id - 165114232
-* email - psingh721@myseneca.ca
-*/
-// MatchPair.h
+
 #ifndef SDDS_MATCHPAIR_H
 #define SDDS_MATCHPAIR_H
 
