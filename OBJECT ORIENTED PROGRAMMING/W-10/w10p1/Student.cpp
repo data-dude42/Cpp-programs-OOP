@@ -1,18 +1,3 @@
-/***********************************************************************
-// OOP244 Workshop 10 p1: Student module implementation file
-//
-// File: Student.cpp
-// Version 1.0
-// Date: Oct 4, 2023
-// Author: Jeevan Pant
-// Description:
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-//
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include "Student.h"
