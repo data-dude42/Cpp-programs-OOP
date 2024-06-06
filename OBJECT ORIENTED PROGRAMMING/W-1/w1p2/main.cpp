@@ -1,5 +1,3 @@
-
-***********************************************************************/
 #include <iostream>
 #include "StMark.h"
 using namespace std;
