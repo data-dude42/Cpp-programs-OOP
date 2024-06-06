@@ -2,7 +2,7 @@
 #define SENECA_UTILS_H
 #include <stdlib.h>
 #include <stddef.h>
-namespace seneca
+using namespace std
 {
     struct Utils
     {
