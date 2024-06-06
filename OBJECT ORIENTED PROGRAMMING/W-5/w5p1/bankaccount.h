@@ -1,15 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop #5 Lab (part 1)
-//
-// File  bankaccount.h
-// Version v0.8 Oct 21st 2023
-// Author  Jitesh Arora
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name                 Date            Reason
-***********************************************************************/
+
 #ifndef SENECA_BANKACCOUNT_H_
 #define SENECA_BANKACCOUNT_H_
 
