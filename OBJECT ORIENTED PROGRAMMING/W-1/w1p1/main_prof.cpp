@@ -1,15 +1,4 @@
-/***********************************************************************
-Workshop 1: Compiling modular programs
-file: tester program
-Version 1.0
-Author	Fardad Soleimanloo  2241
-Description:
-   This program tests workshop 1 submission
-Revision History
------------------------------------------------------------
-Name            Date            Reason
 
-***********************************************************************/
 #include <iostream>
 #include "io.h" // multiple includes are is done intentionally 
 #include "graph.h"
