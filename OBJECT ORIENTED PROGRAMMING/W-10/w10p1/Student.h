@@ -2,7 +2,6 @@
 
 
 
-// Module supplied
 #ifndef SDDS_STUDENT_H
 #define SDDS_STUDENT_H
 #include<cstring>
