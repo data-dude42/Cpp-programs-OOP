@@ -1,15 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop #5 Lab (part 1)
-//
-// File  bankaccount.cpp
-// Version v0.8 Oct 21st 2023
-// Author  Jitesh Arora
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name                 Date            Reason
-***********************************************************************/
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include "bankaccount.h"
