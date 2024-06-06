@@ -1,19 +1,3 @@
-/***********************************************************************
-// OOP244 Workshop 10 p1: tester program
-//
-// File: main.cpp
-// Version 1.1
-// Author: Jeevan Pant
-// Description:
-//
-// Revision History
-// -----------------------------------------------------------
-// Name           Version           Reason
-// Fardad           1.1             Simplified the scope for lab
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
-
-
 #include <iostream>
 #include <iomanip>
 #include "Book.h"
