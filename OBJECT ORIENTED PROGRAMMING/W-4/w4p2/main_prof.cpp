@@ -1,18 +1,4 @@
-/***********************************************************************
-// OOP244 Workshop #4 p2: tester program
-//
-// File	main_prof.cpp
-// Version 1.0
-// Date: Summer 2023
-// Author Michael Huang
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-//
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include "Guitar.h"
