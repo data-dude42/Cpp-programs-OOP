@@ -1,18 +1,3 @@
-/***********************************************************************
-// OOP244 Workshop #02 p2: tester program
-//
-// File	main.cpp
-// Version 1.0
-// Date: September 25, 2023	
-// Author: Yosef Ashibani, Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include "Room.h"
