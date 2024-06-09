@@ -15,6 +15,7 @@ struct Node {
     Node *left, *right;
 
     Node() {
+     
         left = right = NULL;
     }
 };
